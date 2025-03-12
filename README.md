@@ -64,9 +64,11 @@ The recommended books will be displayed in the output box.
 
 <b>Python:</b> The core programming language used for the backend logic.
 
-Gradio: A lightweight library for creating user-friendly interfaces for machine learning models.
+<b>Gradio:</b> A lightweight library for creating user-friendly interfaces for machine learning models.
 
-Pre-trained Models: Utilizes a pre-trained or custom-trained model for generating recommendations.
+<b>Pre-trained Models:</b> Utilizes a pre-trained model to classify emotions based on the description of the book.
 
-Pandas/Numpy: For data manipulation and processing (if applicable).
+<b>Generative-AI Model:</b> Utilized an Openai model to give recommendtations based on the query given. 
+
+<b>Pandas/Numpy:</b> For data manipulation and processing.
 
