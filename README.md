@@ -35,5 +35,38 @@ Follow these steps to set up the Book Recommender System on your local machine.
 #### Navigate to the Project Directory
     cd book-recommender-system
 #### Create a Virtual Environment
-  python -m venv venv
-  source venv/bin/activate 
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+#### Install Dependencies
+    pip install -r requirements.txt
+#### Run the Application
+    python gradio-dashboard.py
+#### Access the Tool
+Open your browser and navigate to link.
+
+## Usage
+
+### Input Emotion and Category
+
+    Enter your current emotion (e.g., happy, sad, adventurous) in the "Emotion" field.
+
+    Enter your preferred book category (e.g., fiction, non-fiction, mystery) in the "Category" field.
+
+### Generate Recommendations:
+
+    Click the Find Recommendation button to process your inputs and generate a list of recommended books.
+
+### View Results:
+
+The recommended books will be displayed in the output box.
+
+## Technologies Used
+
+<b>Python:</b> The core programming language used for the backend logic.
+
+Gradio: A lightweight library for creating user-friendly interfaces for machine learning models.
+
+Pre-trained Models: Utilizes a pre-trained or custom-trained model for generating recommendations.
+
+Pandas/Numpy: For data manipulation and processing (if applicable).
+
