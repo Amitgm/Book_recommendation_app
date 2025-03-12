@@ -48,9 +48,9 @@ Open your browser and navigate to link.
 
 ### Input Emotion and Category
 
-Enter your current emotion (e.g., happy, sad, adventurous) in the "Emotion" field.
+Enter your current emotion (e.g., happy, sad, Suspensful) in the "Emotion" field.
 
-Enter your preferred book category (e.g., fiction, non-fiction, mystery) in the "Category" field.
+Enter your preferred book category (e.g., fiction, non-fiction, nature) in the "Category" field.
 
 ### Generate Recommendations:
 
