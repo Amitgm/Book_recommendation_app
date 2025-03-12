@@ -52,6 +52,11 @@ Enter your current emotion (e.g., happy, sad, Suspensful) in the "Emotion" field
 
 Enter your preferred book category (e.g., fiction, non-fiction, nature) in the "Category" field.
 
+<div align="center">
+    <img src="./Images/image.png" alt="Summarization Results" width="1200">
+    <p><em>Text Summarizer.</em></p>
+</div>
+
 ### Generate Recommendations:
 
 Click the Find Recommendation button to process your inputs and generate a list of recommended books.
