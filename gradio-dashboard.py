@@ -147,7 +147,7 @@ with gr.Blocks(theme = gr.themes.Glass()) as dashboard:
 
         tone_dropdown = gr.Dropdown(choices = tones,label = "Select a Emotional Tone", value = "ALL")
 
-        submit_button = gr.Button("Fine Recommendation")
+        submit_button = gr.Button("Find Recommendation")
 
     gr.Markdown("## Recommendations")
 
