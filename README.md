@@ -48,13 +48,13 @@ Open your browser and navigate to link.
 
 ### Input Emotion and Category
 
-    Enter your current emotion (e.g., happy, sad, adventurous) in the "Emotion" field.
+Enter your current emotion (e.g., happy, sad, adventurous) in the "Emotion" field.
 
-    Enter your preferred book category (e.g., fiction, non-fiction, mystery) in the "Category" field.
+Enter your preferred book category (e.g., fiction, non-fiction, mystery) in the "Category" field.
 
 ### Generate Recommendations:
 
-    Click the Find Recommendation button to process your inputs and generate a list of recommended books.
+Click the Find Recommendation button to process your inputs and generate a list of recommended books.
 
 ### View Results:
 
@@ -71,4 +71,8 @@ The recommended books will be displayed in the output box.
 <b>Generative-AI Model:</b> Utilized an Openai model to give recommendtations based on the query given. 
 
 <b>Pandas/Numpy:</b> For data manipulation and processing.
+
+## Enjoy Recommending Books
+
+With the Book Recommender System, you can easily discover books that match your mood and interests. Whether you're feeling adventurous, reflective, or curious, this tool has you covered! 🚀
 
