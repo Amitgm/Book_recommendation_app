@@ -7,8 +7,8 @@ The Book Recommender System is a user-friendly application designed to recommend
 
 The application uses a pre-trained or custom-trained model to generate book recommendations based on two key inputs:
 
-Emotion: The user's current mood or emotional state (e.g., happy, sad, adventurous).
+- Emotion: The user's current mood or emotional state (e.g., happy, sad, adventurous).
 
-Category: The genre or category of books the user is interested in (e.g., fiction, non-fiction, mystery).
+- Category: The genre or category of books the user is interested in (e.g., fiction, non-fiction, mystery).
 
 The system processes these inputs and returns a list of recommended books tailored to the user's preferences.
