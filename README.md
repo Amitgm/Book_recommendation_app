@@ -53,8 +53,8 @@ Enter your current emotion (e.g., happy, sad, Suspensful) in the "Emotion" field
 Enter your preferred book category (e.g., fiction, non-fiction, nature) in the "Category" field.
 
 <div align="center">
-    <img src="./Images/image.png" alt="Summarization Results" width="1200">
-    <p><em>Text Summarizer.</em></p>
+    <img src="./Images/image.png" alt="Recommendation Results" width="1200">
+    <p><em>Book Recommender.</em></p>
 </div>
 
 ### Generate Recommendations:
