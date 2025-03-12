@@ -18,3 +18,11 @@ The system processes these inputs and returns a list of recommended books tailor
 - Simple and Intuitive Interface: Built with Gradio, the app provides an easy-to-use interface for users to input their preferences and view recommendations.
 
 - Real-Time Recommendations: Generates book recommendations instantly based on the user's inputs.
+
+## Installation
+
+Follow these steps to set up the Book Recommender System on your local machine.
+
+### Prerequisites
+
+- Python 3.10 
