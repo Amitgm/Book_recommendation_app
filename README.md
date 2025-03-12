@@ -30,10 +30,10 @@ Follow these steps to set up the Book Recommender System on your local machine.
 ### Steps
 
 #### Clone the Repository
-  git clone https://github.com/your-username/Book_recommendation_app.git
+    git clone https://github.com/your-username/Book_recommendation_app.git
   
 #### Navigate to the Project Directory
-  cd book-recommender-system
+    cd book-recommender-system
 #### Create a Virtual Environment
   python -m venv venv
   source venv/bin/activate 
