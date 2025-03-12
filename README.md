@@ -54,7 +54,7 @@ Enter your preferred book category (e.g., fiction, non-fiction, nature) in the "
 
 <div align="center">
     <img src="./Images/image.png" alt="Recommendation Results" width="1200">
-    <p><em>Book Recommender.</em></p>
+    <p><em>Book Recommender</em></p>
 </div>
 
 ### Generate Recommendations:
