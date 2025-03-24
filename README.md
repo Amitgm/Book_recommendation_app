@@ -33,7 +33,7 @@ Follow these steps to set up the Book Recommender System on your local machine.
     git clone https://github.com/Amitgm/Book_recommendation_app.git
   
 #### Navigate to the Project Directory
-    cd book-recommender-system
+    cd book_recommendation_app
 #### Create a Virtual Environment
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
