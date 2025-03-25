@@ -39,6 +39,7 @@ Follow these steps to set up the Book Recommender System on your local machine.
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 #### Install Dependencies
     pip install -r requirements.txt
+    cd back to Book_recommendation_app
 #### Run the Application
     python gradio-dashboard.py
 #### Access the Tool
